@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: deepskyblue;
+    background-color: #675180;
 }
 .background{
     width: 430px;
@@ -23,12 +23,12 @@ body{
     border-radius: 50%;
 }
 .shape:first-child{
-    background-color: dodgerblue;
+    background-color: #9178d4;
     left: -80px;
     top: -80px;
 }
 .shape:last-child{
-    background-color: cornflowerblue;
+    background-color: #ae9ae2;
     right: -30px;
     bottom: -80px;
 }
@@ -49,7 +49,7 @@ body{
 .form *{
     font-family: 'Poppins',sans-serif;
     color: #ffffff;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     outline: none;
     border: none;
 }
@@ -83,7 +83,7 @@ input{
 .button{
     margin-top: 35px;
     width: 100%;
-    background-color: cornflowerblue;
+    background-color: #ae9ae2;
     color: white;
     padding: 15px 0;
     font-size: 18px;
@@ -93,6 +93,6 @@ input{
 }
 
 .button:hover {
-    background-color: dodgerblue;
+    background-color: #9178d4;
     color: white;
 }

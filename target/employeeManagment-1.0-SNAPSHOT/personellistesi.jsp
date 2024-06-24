@@ -3,8 +3,8 @@
 <%@ page import="java.util.List" %>
 <%@ page import="dao.UserDAOlmpl" %><%--
   Created by IntelliJ IDEA.
-  User: Kenancan
-  Date: 25.05.2024
+  User: Batuhan
+  Date: 6.01.2024
   Time: 20:47
   To change this template use File | Settings | File Templates.
 --%>
@@ -19,7 +19,7 @@
 <body>
 
     <div id="nav-bar">
-        <a style="font-weight:bold; letter-spacing:2px;" href="index.xhtml">KenAta Personel</a>
+        <a style="font-weight:bold; letter-spacing:2px;" href="index.xhtml">EnBa Personel</a>
         <a class="sayfa" href="personellistesi.jsp">Personel Listesi</a>
         <a class="sayfa" href="personelekle.jsp">Personel Ekle</a>
     </div>

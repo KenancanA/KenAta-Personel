@@ -14,7 +14,7 @@ body {
 
 #nav-bar {
     overflow: hidden;
-    background-color: deepskyblue;
+    background-color: #675180;
 }
 
 
@@ -35,7 +35,7 @@ body {
 
 #anasayfa-yazi {
     font-weight: lighter;
-    font-family: Lucida Sans Unicode, serif;
+    font-family: Lucida Sans Unicode;
     font-size: 30px;
     letter-spacing:5px;
     color: white;
@@ -45,7 +45,7 @@ body {
 }
 
 #anasayfa-yazi p{
-    font-family: Lucida Sans Unicode, serif;
+    font-family: Lucida Sans Unicode;
     font-size: 15px;
     letter-spacing:2px;
     color: white;
@@ -57,10 +57,10 @@ body {
     webkit-border-radius: 30;
     moz-border-radius: 30;
     border-radius: 30px;
-    font-family: Arial, serif;
+    font-family: Arial;
     color: #ffffff;
     font-size: 19px;
-    background: deepskyblue;
+    background: #675180;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     border:2px solid transparent;
@@ -69,6 +69,6 @@ body {
 }
 
 .btn:hover {
-    background: deepskyblue;
+    background: #9072b1;
     text-decoration: none;
 }

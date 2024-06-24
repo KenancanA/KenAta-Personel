@@ -8,7 +8,7 @@
 body {
     height: 100vh;
     background-size: 100% 100% ;
-    color: black;
+    color: #333;
 }
 
 img {
@@ -19,8 +19,8 @@ img {
 }
 
 #nav-bar {
-
-    background-color: deepskyblue;
+    overflow: hidden;
+    background-color: #675180;
 }
 
 
@@ -41,7 +41,7 @@ img {
 
 #anasayfa-yazi {
     font-weight: lighter;
-    font-family: Lucida Sans Unicode, serif;
+    font-family: Lucida Sans Unicode;
     font-size: 30px;
     letter-spacing:5px;
     color: white;
@@ -51,7 +51,7 @@ img {
 }
 
 #anasayfa-yazi p{
-    font-family: Lucida Sans Unicode, serif;
+    font-family: Lucida Sans Unicode;
     font-size: 15px;
     letter-spacing:2px;
     color: white;
@@ -66,7 +66,7 @@ img {
     font-family: Arial;
     color: #ffffff;
     font-size: 19px;
-    background: deepskyblue;
+    background: #675180;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     border:2px solid transparent;
@@ -75,6 +75,6 @@ img {
 }
 
 .btn:hover {
-    background: deepskyblue;
+    background: #9072b1;
     text-decoration: none;
 }

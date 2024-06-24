@@ -1,7 +1,7 @@
 <%--
   Created by IntelliJ IDEA.
-  User: Kenancan
-  Date: 15.05.2024
+  User: Batuhan
+  Date: 21.12.2023
   Time: 18:44
   To change this template use File | Settings | File Templates.
 --%>
@@ -15,7 +15,7 @@
 <body>
 
     <div id="nav-bar">
-        <a style="font-weight:bold; letter-spacing:2px;" href="index.xhtml">KenAta Personel</a>
+        <a style="font-weight:bold; letter-spacing:2px;" href="index.xhtml">EnBa Personel</a>
         <a class="sayfa" href="personellistesi.jsp">Personel Listesi</a>
         <a class="sayfa" href="personelekle.jsp">Personel Ekle</a>
     </div>
@@ -64,7 +64,7 @@
                             </div>
                             <br>
                             <div class="d-flex justify-content-center">
-                                <button style="background-color:deepskyblue; text-align: center;" type="submit" class="btn btn-secondary btn-lg btn-block"> Personel Ekle</button>
+                                <button style="background-color:#9072b1; text-align: center;" type="submit" class="btn btn-secondary btn-lg btn-block"> Personel Ekle</button>
                             </div>
                         </form>
                     </div>

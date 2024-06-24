@@ -8,7 +8,7 @@ public abstract class DBConnect {
     {
         try{
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-            conn=(Connection) DriverManager.getConnection("jdbc:sqlserver://localhost:1433;database=employeeDb;trustServerCertificate=true;","SA","eyupfurkantuylu123");
+            conn=(Connection) DriverManager.getConnection("jdbc:sqlserver://localhost:1433;database=employeeDb;trustServerCertificate=true;","myuser","123456789");
         }
         catch (Exception exception)
         {

@@ -14,7 +14,7 @@ body {
 
 .table-wrapper{
     margin: 20px 70px 70px;
-    box-shadow: 0 35px 50px rgba( 0, 0, 0, 0.2 );
+    box-shadow: 0px 35px 50px rgba( 0, 0, 0, 0.2 );
 }
 
 .fl-table {
@@ -41,13 +41,13 @@ body {
 
 .fl-table thead th {
     color: #ffffff;
-    background: dodgerblue;
+    background: #9178d4;
 }
 
 
 .fl-table thead th:nth-child(odd) {
     color: #ffffff;
-    background: deepskyblue;
+    background: #675180;
 }
 
 .fl-table tr:nth-child(even) {
